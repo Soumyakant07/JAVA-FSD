@@ -1,0 +1,9 @@
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\controller\MainController.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\entities\User.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\services\UserService.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\UserManagerApplication.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\exceptions\UserNotFoundException.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\repositories\UserRepository.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\controller\UserController.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\controller\UserExceptionController.java
+C:\Users\Asus\Phase3\UserManager\src\main\java\com\example\UserManager\controller\AppErrorController.java
